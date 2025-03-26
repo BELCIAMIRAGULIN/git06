@@ -1,2 +1,2 @@
 # git06
-github
+git
